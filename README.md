@@ -1,152 +1,111 @@
 # 🚀 UPS Fullstack Training
 
-Welcome to my **UPS Fullstack Training Repository!**
+This repository contains my daily learning notes, Java programs, and homework completed during UPS Fullstack Training.
 
-This repository documents my daily learning journey, Java practice programs, assignments, and hands-on coding exercises during my training.
+## 📅 Day 1 – Introduction to Java
 
-My goal is to strengthen my programming fundamentals and gradually build practical software development skills.
-
----
-
-## 📚 Learning Progress
-
-| Day | Topics Covered | Status |
-|---|---|---|
-| Day 1 | Self Introduction, Java, JDK, JRE, JVM | ✅ Completed |
-| Day 2 | Variables, Data Types, Operators, Git, Java Programs | ✅ Completed |
-| Day 3 | Conditional Statements, Loops, Switch, Number Programs | ✅ Completed |
-
----
-
-## 📅 Day-wise Learning
-
-### 📂 Day 1 — Java Fundamentals
-
-**Topics learned:**
+### Topics Covered
 - Self Introduction
 - Introduction to Java
-- JDK (Java Development Kit)
-- JRE (Java Runtime Environment)
-- JVM (Java Virtual Machine)
-- Relationship between JDK, JRE, and JVM
+- JDK, JRE, and JVM
 
-### 📂 Day 2 — Variables and Operators
+## 📅 Day 2 – Java Fundamentals
 
-**Topics learned:**
+### Topics Covered
 - Variables and Data Types
-- Primitive Data Types
-- Arithmetic Operators
-- Assignment Operators
-- Relational Operators
-- Logical Operators
-- Unary and Ternary Operators
-- Java installation and version checking
-- Basic Git commands
+- Operators
+- Java Installation and Setup
+- Git and GitHub Commands
 
-**Practice programs:**
-- Print Biodata
-- Check Positive or Negative
-- Check Odd or Even using the Ternary Operator
+### Programs Practiced
+- Print Bio Data
+- Positive or Negative Number
+- Odd or Even Number using Ternary Operator
 
-### 📂 Day 3 — Conditional Statements and Loops
+## 📅 Day 3 – Conditional Statements and Loops
 
-**Topics learned:**
-- `if`, `if-else`, and Nested `if`
-- `switch`, `case`, `break`, and `default`
-- Boolean Expressions
-- Relational and Logical Operators
-- Username and Password Validation
-- `while` Loop
-- `do-while` Loop
-- `for` Loop
-- Modulus (`%`) and Bitwise AND (`&`)
+### Topics Covered
+- `if`, `if-else`, and nested `if`
+- `switch` statement
+- `while` loop
+- `do-while` loop
+- `for` loop
+- `Scanner` class
+- Basic problem-solving programs
 
-**Practice programs:**
-- Check Odd or Even
-- Print Numbers from 10 to 1
-- Print Even Numbers in a Range
-- Multiplication Table using Start and End Values
-- Username and Password Validation
-- Movie Booking System
+### Java Programs
 
-**Mini Project: Movie Booking System**
-- Display available movies
-- Select a movie using `switch`
-- Enter the number of tickets
-- Calculate ticket price (₹280 per ticket)
-- Validate movie selection and ticket quantity
-- Display booking confirmation
+1. **Task 1 – Valid Login**
+   - Validate username and password.
 
-**Homework:**
+2. **Task 2 – Movie Booking System**
+   - Display available movies.
+   - Select a movie using `switch`.
+   - Choose seat type.
+   - Enter ticket quantity.
+   - Calculate total ticket price.
+   - Validate selections and confirm booking.
+
+3. **Task 3 – Print Numbers from 10 to 1**
+   - Use a `while` loop.
+
+4. **Task 4 – Print Even Numbers from 1 to 50**
+   - Use a `do-while` loop.
+
+5. **Task 5 – Print Even Numbers Between Two Numbers**
+   - Get the range from the user.
+
+6. **Task 6 – Multiplication Table**
+   - Use a `for` loop.
+
+7. **Task 7 – Odd or Even Using Switch**
+   - Check whether a number is odd or even.
+
+8. **Task 8 – Sum of First N Natural Numbers**
+   - Calculate the sum using a loop.
+
+9. **Task 9 – Factorial**
+   - Calculate the factorial of a number.
+
+10. **Task 10 – Count Digits**
+    - Count the digits in a number.
+
+### Homework
+
 - [ ] Sum of Digits
 - [ ] Factorial of a Number
-- [ ] Count the Digits of a Number
+- [ ] Count Digits
 
----
-
-## 🛠️ Technologies and Tools
-
-- **Programming Language:** Java
-- **IDE / Editor:** IntelliJ IDEA, Notepad
-- **Version Control:** Git
-- **Code Hosting:** GitHub
-- **Input Handling:** Java Scanner
-
----
-
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```text
 UPS-Fullstack-Training/
 ├── Day1/
 ├── Day2/
 ├── Day3/
-│   ├── README.md
-│   ├── src/
-│   │   ├── IfElse.java
-│   │   ├── UsernamePassword.java
-│   │   ├── SwitchExample.java
-│   │   ├── EvenOdd.java
-│   │   ├── WhileLoop.java
-│   │   ├── DoWhileLoop.java
-│   │   ├── ForLoop.java
-│   │   ├── EvenNumbers.java
-│   │   ├── MultiplicationTable.java
-│   │   └── MovieBooking.java
-│   └── homework/
-│       ├── SumOfDigits.java
-│       ├── Factorial.java
-│       └── CountDigits.java
+│   ├── JavaFiles/
+│   │   ├── Task1_ValidLogin.java
+│   │   ├── Task2_MovieBooking.java
+│   │   ├── Task3_WhileLoop.java
+│   │   ├── Task4_DoWhileEven.java
+│   │   ├── Task5_EvenNumbersRange.java
+│   │   ├── Task6_MultiplicationTable.java
+│   │   ├── Task7_OddEvenSwitch.java
+│   │   ├── Task8_SumNaturalNumbers.java
+│   │   ├── Task9_Factorial.java
+│   │   └── Task10_CountDigits.java
+│   ├── Output/
+│   ├── homework/
+│   │   ├── SumOfDigits.java
+│   │   ├── Factorial.java
+│   │   └── CountDigits.java
+│   └── ReadME.md
 └── README.md
 ```
 
----
+## 🎯 Learning Goal
 
-## 🎯 Goals
-
-- Strengthen Java programming fundamentals.
-- Improve logical thinking and problem-solving skills.
-- Practice coding daily.
-- Learn object-oriented programming.
-- Build small projects using Java.
-- Learn backend and full-stack development step by step.
-- Maintain a consistent coding record using Git and GitHub.
+To improve my Java programming fundamentals through daily practice, problem-solving, and hands-on coding.
 
 ---
-
-## 📈 My Learning Approach
-
-1. Learn the concepts.
-2. Practice programs.
-3. Solve coding exercises.
-4. Complete daily homework.
-5. Upload code to GitHub.
-6. Build projects using the concepts learned.
-
----
-
-## 👨‍💻 About This Repository
-
-This repository is my personal learning record for **UPS Fullstack Training**. It contains daily notes, Java programs, practice exercises, and mini projects as I progress through my software development journey.
-
-**Learning every day. Coding every day. Improving step by step.** 🚀
+**Author:** Baskar J
