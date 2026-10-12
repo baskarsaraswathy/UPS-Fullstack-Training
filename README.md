@@ -24,8 +24,15 @@ My journey through Java fundamentals, hands-on coding, and problem-solving at UP
 - Stack & Queue
 - 6 Java Practice Tasks: Strings, Factorial, Even/Odd, Arrays, Vowels & Temperature Conversion
 
+### 📅 Day 5 – OOP Concepts
+- Encapsulation & Inheritance
+- Method Overriding & Polymorphism
+- `static` & `final` Keywords
+- ATM & Animal Programs
+
 ### 🎯 Mission
 **Learn → Practice → Improve → Repeat**
 
 ---
+
 👨‍💻 **Author:** Baskar J
