@@ -30,6 +30,14 @@ My journey through Java fundamentals, hands-on coding, and problem-solving at UP
 - `static` & `final` Keywords
 - ATM & Animal Programs
 
+### 📅 Day 6 – Abstraction & Interfaces
+- Abstract Classes & Abstract Methods
+- Interfaces & `implements` Keyword
+- Method Overriding & Runtime Polymorphism
+- String Manipulation & Anagram Checking
+- Merging Character Arrays
+- JVM Memory: Stack, Heap & Method Area
+
 ### 🎯 Mission
 **Learn → Practice → Improve → Repeat**
 
