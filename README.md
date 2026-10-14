@@ -38,6 +38,14 @@ My journey through Java fundamentals, hands-on coding, and problem-solving at UP
 - Merging Character Arrays
 - JVM Memory: Stack, Heap & Method Area
 
+### 📅 Day 7 – Exception Handling
+- `try`, `catch` & `throw`
+- Built-in & Custom Exceptions
+- `throw` vs `throws`
+- Exception Handling in ATM Program
+- Interface Variables & `final` Keyword
+- JVM Memory: Stack, Heap & Metaspace
+
 ### 🎯 Mission
 **Learn → Practice → Improve → Repeat**
 
