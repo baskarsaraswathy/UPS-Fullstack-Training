@@ -46,6 +46,16 @@ My journey through Java fundamentals, hands-on coding, and problem-solving at UP
 - Interface Variables & `final` Keyword
 - JVM Memory: Stack, Heap & Metaspace
 
+### 📅 Day 8 – Multithreading & File Handling
+- Thread Class & Runnable Interface
+- `start()`, `run()`, `sleep()` & `join()`
+- Synchronization & Thread Safety
+- Inter-Thread Communication: `wait()` & `notify()`
+- Lambda Expressions
+- File Handling: Create, Read, Write & Delete
+- `File`, `FileWriter`, `FileReader` & `BufferedReader`
+- Student File Management System using 4 Classes
+
 ### 🎯 Mission
 **Learn → Practice → Improve → Repeat**
 
