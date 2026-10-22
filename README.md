@@ -56,7 +56,26 @@ My journey through Java fundamentals, hands-on coding, and problem-solving at UP
 - `File`, `FileWriter`, `FileReader` & `BufferedReader`
 - Student File Management System using 4 Classes
 
+### 📅 Day 9 – Java Assessment & Problem Solving
+- Duplicate Elements in Arrays
+- Non-Repeating Elements
+- Array Rotation
+- Custom Exception Handling
+- Rectangle Area & Perimeter
+- Inheritance & Method Overriding
+- Classes & Objects: Student Management Basics
+
+### 📅 Day 10 – Classes, Objects & Constructors
+- Creating Classes and Objects
+- Default & Parameterized Constructors
+- `this` Keyword
+- Initializing Object Properties
+- Creating Multiple Objects
+- Student Details Management Program
+- Constructor Execution & Object Creation
+
 ### 🎯 Mission
+
 **Learn → Practice → Improve → Repeat**
 
 ---
