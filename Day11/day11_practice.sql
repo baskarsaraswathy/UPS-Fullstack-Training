@@ -25,8 +25,8 @@ CREATE TABLE IF NOT EXISTS employee (
 INSERT INTO employee
     (employee_id, employee_name, salary, joining_date, email)
 VALUES
-    (1, 'ezhil', 500000, '2027-02-01', 'ezhil@gmail.com'),
-    (2, 'sree', 500000, '2027-02-02', 'sree@gmail.com');
+    (1, 'san', 500000, '2027-02-01', 'san@gmail.com'),
+    (2, 'king', 500000, '2027-02-02', 'king@gmail.com');
 
 SELECT * FROM employee;
 
