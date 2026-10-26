@@ -1,0 +1,4 @@
+Example final lines:
+Topper: Cathy 95
+Record added
+(Enter five comma-separated student records, then one more record to append.)

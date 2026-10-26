@@ -1,0 +1,10 @@
+Example:
+1.Add 2.Search 3.Update 4.Delete 5.Display 6.Save and Exit
+Choice: 1
+Enter ID: 101
+Enter name: Arun
+Enter department: IT
+Enter salary: 30000
+Employee added
+Choice: 6
+Records saved

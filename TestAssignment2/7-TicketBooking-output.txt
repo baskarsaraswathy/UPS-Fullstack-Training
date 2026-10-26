@@ -1,0 +1,5 @@
+Customer 1 booked 4 tickets
+Customer 2 booked 4 tickets
+Customer 3 booking failed
+Remaining tickets: 2
+(Order of customers may vary.)
