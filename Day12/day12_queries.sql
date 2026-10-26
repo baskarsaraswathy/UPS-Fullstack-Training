@@ -28,20 +28,20 @@ INSERT INTO department (dept_id, dept_name) VALUES
 (4, 'Marketing');
 
 INSERT INTO employee (id, name, email, age, salary, dept_id) VALUES
-(101, 'san kumar', 'aasrith@gmail.com', 21, 55000.00, 1),
-(102, 'king kumar', 'rohith@gmail.com', 22, 42000.00, 1),
-(103, 'lokesh kumar', 'senthil@gmail.com', 24, 38000.00, 2),
+(101, 'san kumar', 'san@gmail.com', 21, 55000.00, 1),
+(102, 'king kumar', 'king@gmail.com', 22, 42000.00, 1),
+(103, 'lokesh kumar', 'lokesh@gmail.com', 24, 38000.00, 2),
 (104, 'Vijay kumar', 'vijay@gmail.com', 25, 48000.00, 3),
-(105, 'madhan kumar', 'pooja@gmail.com', 20, 32000.00, 2),
-(106, 'kishore kumar', 'sneha@gmail.com', 23, 36000.00, 1);
+(105, 'madhan kumar', 'madhan@gmail.com', 20, 32000.00, 2),
+(106, 'kishore kumar', 'kishore@gmail.com', 23, 36000.00, 1);
 
 -- DEFAULT salary is used when salary is omitted.
 INSERT INTO employee (id, name, email, age, dept_id) VALUES
-(107, 'aswin kumar', 'karan@gmail.com', 19, 4);
+(107, 'aswin kumar', 'aswin@gmail.com', 19, 4);
 
 -- Employee without an assigned department.
 INSERT INTO employee (id, name, email, age, salary, dept_id) VALUES
-(108, 'ram kumar', 'aditi@gmail.com', 26, 29000.00, NULL);
+(108, 'ram kumar', 'ram@gmail.com', 26, 29000.00, NULL);
 
 -- WHERE
 SELECT * FROM employee WHERE age > 21;
