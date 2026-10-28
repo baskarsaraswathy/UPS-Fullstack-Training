@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Registration Page</title></head>
+<body>
+    <h1 align="center">Registration Page</h1>
+    <table border="1" width="100%" cellpadding="10"><tr align="center">
+        <td><a href="home.html">Home</a></td><td><a href="login.html">Login</a></td>
+        <td><a href="register.html">Register</a></td><td><a href="contact.html">Contact</a></td>
+    </tr></table>
+    <h2>Create an Account</h2>
+    <form>
+        <p>Name: <input type="text" name="name" placeholder="Enter your name" required></p>
+        <p>Email: <input type="email" name="email" placeholder="Enter email" required></p>
+        <p>Mobile: <input type="tel" name="mobile" placeholder="Enter mobile number"></p>
+        <p>Password: <input type="password" name="password" required></p>
+        <p>Age: <input type="number" name="age" min="1" max="100"></p>
+        <p>Date of Birth: <input type="date" name="dob"></p>
+        <p>Appointment: <input type="datetime-local" name="appointment"></p>
+        <p>Website: <input type="url" name="website" placeholder="https://example.com"></p>
+        <p>Upload File: <input type="file" name="file"></p>
+        <p>Gender:
+            <input type="radio" name="gender" value="male"> Male
+            <input type="radio" name="gender" value="female"> Female
+            <input type="radio" name="gender" value="other"> Other
+        </p>
+        <p>Interests:
+            <input type="checkbox" name="interest" value="coding"> Coding
+            <input type="checkbox" name="interest" value="sports"> Sports
+        </p>
+        <p>Skill level: <input type="range" name="skill" min="0" max="10"></p>
+        <p>Course:
+            <select name="course">
+                <option value="">Select a course</option>
+                <option value="html">HTML</option>
+                <option value="java">Java</option>
+                <option value="sql">SQL</option>
+            </select>
+        </p>
+        <p><input type="submit" value="Register"> <input type="reset" value="Clear"></p>
+    </form>
+</body>
+</html>
