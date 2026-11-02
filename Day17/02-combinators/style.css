@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.parent p { color: royalblue; }       /* Descendant */
+.parent > p { font-weight: bold; }    /* Direct child */
+h2 + p { color: crimson; }            /* Adjacent sibling */
+h2 ~ p { background: #fff0c2; }       /* General sibling */

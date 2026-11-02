@@ -1,0 +1,151 @@
+
+/* Body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F5F7EF;
+}
+
+/* Header and Footer */
+header, footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #285C3B;
+    color: white;
+    padding: 10px 25px;
+}
+
+/* Navigation */
+header nav {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #F5D98B;
+}
+
+/* Website Heading */
+#head {
+    margin-left: 550px;
+    color: #F5D98B;
+}
+
+/* Product Images */
+img {
+    border-radius: 15px;
+    height: 110px;
+    width: 110px;
+    object-fit: cover;
+}
+
+/* Buy Button */
+button {
+    background-color: #B56A35;
+    color: white;
+    border: none;
+    padding: 9px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in;
+}
+
+button:hover {
+    transform: scale(1.1);
+    background-color: #8B4D25;
+}
+
+/* Product Container */
+#container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 30px;
+    gap: 40px;
+}
+
+/* Product Card */
+.card {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    height: 250px;
+    border: 2px solid #285C3B;
+    border-radius: 20px;
+    background-color: #E5EDDF;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Product Heading */
+.card h3 {
+    color: #285C3B;
+}
+
+/* Product Price */
+.card p {
+    color: #8B4D25;
+    font-weight: bold;
+}
+
+/* Card Hover */
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* About Section */
+#about {
+    text-align: center;
+    padding: 20px;
+    background-color: #D5E4CD;
+    color: #285C3B;
+}
+
+/* Footer */
+footer {
+    background-color: #285C3B;
+    color: white;
+}
+
+/* Responsive Layout */
+@media (max-width: 800px) {
+
+    #container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    #head {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 500px) {
+
+    #container {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        flex-direction: column;
+    }
+
+    #head {
+        margin-left: 0;
+    }
+
+    nav {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+}
+

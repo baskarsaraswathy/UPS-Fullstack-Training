@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    min-height: 180px;
+    padding: 20px;
+    background: #eee;
+}
+.flex-container div { padding: 30px; background: lightblue; border: 1px solid navy; }

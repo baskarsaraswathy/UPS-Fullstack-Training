@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+}
+.grid-container div { padding: 35px; text-align: center; background: lightblue; }
+@media (max-width: 600px) {
+    .grid-container { grid-template-columns: 1fr; }
+}

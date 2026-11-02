@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 25px; }
+a:hover { color: red; }
+input:focus { outline: 2px solid royalblue; }
+.sample::first-letter { font-size: 32px; color: crimson; }
+.sample::after { content: " ✓"; color: green; }

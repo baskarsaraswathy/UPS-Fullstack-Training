@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 25px; }
+.effect-button { padding: 12px 20px; background: navy; color: white; border: 0; transition: background .3s, transform .3s; }
+.effect-button:hover { background: royalblue; transform: scale(1.08); }
+.animated-box { width: 60px; height: 60px; margin-top: 30px; background: coral; animation: move 2s infinite alternate; }
+@keyframes move { from { transform: translateX(0); } to { transform: translateX(180px); } }

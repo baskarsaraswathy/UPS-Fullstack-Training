@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; padding: 25px; }
+h1 { color: darkblue; }
+#main-title { text-align: center; }
+.note { color: darkgreen; font-weight: bold; }
+button { padding: 10px 18px; }
