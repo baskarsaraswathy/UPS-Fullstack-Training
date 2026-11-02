@@ -136,14 +136,17 @@ UPS-Fullstack-Training/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baskarsaraswathy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskarsaraswathy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com?user=baskarsaraswathy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=baskarsaraswathy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/baskarsaraswathy">
+  <img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+</a>
 
 </div>
+
+*GitHub activity and contribution history are also available directly on my GitHub profile.*
 
 ---
 
