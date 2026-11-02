@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Filters</title>
+    <style>
+        img {
+            width: 220px;
+            height: 150px;
+            object-fit: cover;
+            margin: 10px;
+        }
+
+        .gray { filter: grayscale(100%); }
+        .blur { filter: blur(5px); }
+        .bright { filter: brightness(150%); }
+        .contrast { filter: contrast(200%); }
+        .saturate { filter: saturate(300%); }
+        .sepia { filter: sepia(100%); }
+        .invert { filter: invert(100%); }
+        .shadow { filter: drop-shadow(5px 5px 10px black); }
+    </style>
+</head>
+<body>
+    <h1>CSS Filter Examples</h1>
+
+    <h3>Grayscale</h3>
+    <img class="gray" src="https://picsum.photos/id/1015/500/350" alt="Grayscale example">
+
+    <h3>Blur</h3>
+    <img class="blur" src="https://picsum.photos/id/1015/500/350" alt="Blur example">
+
+    <h3>Brightness</h3>
+    <img class="bright" src="https://picsum.photos/id/1015/500/350" alt="Brightness example">
+
+    <h3>Contrast</h3>
+    <img class="contrast" src="https://picsum.photos/id/1015/500/350" alt="Contrast example">
+
+    <h3>Saturate</h3>
+    <img class="saturate" src="https://picsum.photos/id/1015/500/350" alt="Saturation example">
+
+    <h3>Sepia</h3>
+    <img class="sepia" src="https://picsum.photos/id/1015/500/350" alt="Sepia example">
+
+    <h3>Invert</h3>
+    <img class="invert" src="https://picsum.photos/id/1015/500/350" alt="Invert example">
+
+    <h3>Drop Shadow</h3>
+    <img class="shadow" src="https://picsum.photos/id/1015/500/350" alt="Drop shadow example">
+</body>
+</html>
