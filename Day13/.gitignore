@@ -1,0 +1,9 @@
+# NetBeans / Java build output
+/build/
+/dist/
+/nbproject/private/
+/*.class
+*.log
+
+# Keep database credentials out of Git
+.env
