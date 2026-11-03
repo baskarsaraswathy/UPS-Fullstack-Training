@@ -1,17 +1,17 @@
+ <div align="center">
+
 # 🚀 UPS Fullstack Training
 
 ### `LEARN` • `BUILD` • `PRACTICE` • `GROW`
 
 **A daily coding journey through Java, databases, web development, and full-stack engineering.**
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day;Turning+concepts+into+working+code;Building+strong+development+fundamentals" alt="Typing SVG" />
 
 <p>
-<img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Training" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" alt="Status" />
 </p>
 
 </div>
@@ -72,7 +72,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 16 | CSS Basics, Selectors and Layout |
 | Day 17 | Flexbox, Grid and Website Templates |
 | Day 18 | Media Queries, CSS Animations and Portfolio Design |
-| **Day 19** | **JavaScript Fundamentals, Variables, Data Types, Operators and Basic Programs** |
+| **Day 19** | **JavaScript Introduction, Variables, Data Types, Operators and Basic Programs** |
 
 </details>
 
@@ -107,11 +107,13 @@ UPS-Fullstack-Training/
 ├── Day1/
 ├── Day2/
 ├── Day3/
+├── Day4/
 ├── ...
 ├── Day13/
 ├── Day14/
 ├── ...
 ├── Day18/
+│
 ├── Day19-JavaScript/
 │   ├── README.md
 │   ├── index.html
@@ -122,6 +124,8 @@ UPS-Fullstack-Training/
 │
 └── README.md
 ```
+
+*The repository structure will continue to grow as new training days and projects are added.*
 
 ---
 
@@ -140,12 +144,14 @@ UPS-Fullstack-Training/
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=baskarsaraswathy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/baskarsaraswathy">
+  <img src="https://github-readme-stats.vercel.app/api?username=baskarsaraswathy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</a>
 
 <br />
 
 <a href="https://github.com/baskarsaraswathy">
-<img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+  <img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
 </a>
 
 </div>
