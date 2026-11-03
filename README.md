@@ -1,17 +1,17 @@
-<div align="center">
-
 # 🚀 UPS Fullstack Training
 
 ### `LEARN` • `BUILD` • `PRACTICE` • `GROW`
 
 **A daily coding journey through Java, databases, web development, and full-stack engineering.**
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day;Turning+concepts+into+working+code;Building+strong+development+fundamentals" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Training" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" />
 </p>
 
 </div>
@@ -58,6 +58,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 05–10 | Java practice and programming concepts |
 | Day 11 | MySQL and SQL Fundamentals |
 | Day 12 | Advanced SQL and Database Operations |
+
 </details>
 
 <details open>
@@ -71,6 +72,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 16 | CSS Basics, Selectors and Layout |
 | Day 17 | Flexbox, Grid and Website Templates |
 | Day 18 | Media Queries, CSS Animations and Portfolio Design |
+| **Day 19** | **JavaScript Fundamentals, Variables, Data Types, Operators and Basic Programs** |
 
 </details>
 
@@ -88,7 +90,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 | Area | Tools / Technologies |
 |:--|:--|
-| Programming | Java |
+| Programming | Java, JavaScript |
 | Database | MySQL, SQL |
 | Connectivity | JDBC, MySQL Connector/J |
 | Frontend | HTML, CSS, JavaScript |
@@ -107,17 +109,19 @@ UPS-Fullstack-Training/
 ├── Day3/
 ├── ...
 ├── Day13/
-│   ├── src/
-│   ├── sql/
-│   └── README.md
 ├── Day14/
 ├── ...
 ├── Day18/
+├── Day19-JavaScript/
+│   ├── README.md
+│   ├── index.html
+│   ├── variables.js
+│   ├── datatypes.js
+│   ├── operators.js
+│   └── programs.js
 │
 └── README.md
 ```
-
-*The folders shown here represent the intended learning-log structure. Folder names may differ as the repository grows.*
 
 ---
 
@@ -141,7 +145,7 @@ UPS-Fullstack-Training/
 <br />
 
 <a href="https://github.com/baskarsaraswathy">
-  <img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+<img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
 </a>
 
 </div>
