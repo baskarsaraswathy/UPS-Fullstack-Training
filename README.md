@@ -72,7 +72,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 16 | CSS Basics, Selectors and Layout |
 | Day 17 | Flexbox, Grid and Website Templates |
 | Day 18 | Media Queries, CSS Animations and Portfolio Design |
-| **Day 19** | **JavaScript Introduction, Variables, Data Types, Operators and Basic Programs** |
+| Day 19 | JavaScript Introduction, Variables, Data Types, Operators and Basic Programs |
 
 </details>
 
@@ -145,18 +145,22 @@ UPS-Fullstack-Training/
 <div align="center">
 
 <a href="https://github.com/baskarsaraswathy">
-  <img src="https://github-readme-stats.vercel.app/api?username=baskarsaraswathy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub-baskarsaraswathy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
-<br />
-
-<a href="https://github.com/baskarsaraswathy">
-  <img src="https://img.shields.io/badge/Visit_My_GitHub-Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+<a href="https://github.com/baskarsaraswathy?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
+
+<a href="https://github.com/baskarsaraswathy?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-7C3AED?style=for-the-badge&logo=github" alt="Stars" />
+</a>
+
+### 💻 Code. Learn. Repeat.
 
 </div>
 
-*GitHub activity and contribution history are also available directly on my GitHub profile.*
+*Explore my GitHub profile to see my repositories, projects, and coding journey.*
 
 ---
 
