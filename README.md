@@ -73,6 +73,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 17 | Flexbox, Grid and Website Templates |
 | Day 18 | Media Queries, CSS Animations and Portfolio Design |
 | Day 19 | JavaScript Introduction, Variables, Data Types, Operators and Basic Programs |
+| Day 20 | Project Wireframe Discussion and Project Documentation Discussion (NeighborRent) |
 
 </details>
 
@@ -107,20 +108,16 @@ UPS-Fullstack-Training/
 ├── Day1/
 ├── Day2/
 ├── Day3/
-├── Day4/
-├── ...
-├── Day13/
-├── Day14/
 ├── ...
 ├── Day18/
+├── Day19/
 │
-├── Day19-JavaScript/
+├── Day20/
 │   ├── README.md
-│   ├── index.html
-│   ├── variables.js
-│   ├── datatypes.js
-│   ├── operators.js
-│   └── programs.js
+│   ├── docs/
+│   │   ├── wireframe-discussion.md
+│   │   └── documentation-discussion.md
+│   └── 
 │
 └── README.md
 ```
