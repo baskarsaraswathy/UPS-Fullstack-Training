@@ -1,21 +1,19 @@
-content = """<div align="center">
+
+<div align="center">
 
 # 🚀 UPS Fullstack Training
 
-- ### `LEARN`
-- `BUILD`
-- `PRACTICE`
-`GROW`
+### LEARN • BUILD • PRACTICE • GROW
 
 **A daily coding journey through Java, databases, web development, and full-stack engineering.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+something+new+every+day;Turning+concepts+into+working+code;Building+strong+development+fundamentals" alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Training" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" alt="Status" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Training-UPS-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full_Stack_Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning_in_Progress-22C55E?style=for-the-badge" />
 
 </div>
 
@@ -35,16 +33,14 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 | Phase | Topics | Progress |
 |:--|:--|:--:|
-| `01` — Java Foundations | Java introduction, JDK/JRE/JVM, variables, data types, operators | ✅ |
-| `02` — Core Java Practice | Conditions, loops, methods, arrays, OOP and problem solving | 🔄 |
-| `03` — Database Fundamentals | MySQL, SQL queries, tables and database operations | ✅ |
-| `04` — Java Database Connectivity | JDBC, MySQL Connector/J, NetBeans integration | ✅ |
-| `05` — Frontend Foundations | HTML, CSS, JavaScript and page structure | ✅ |
-| `06` — Responsive UI | Flexbox, Grid, media queries and animations | ✅ |
-| `07` — Spring Boot Framework | REST APIs, JPA, Hibernate, MVC Architecture | 🔄 |
-| `08` — Practical Projects | Project planning, implementation and improvements | 🔄 |
-
-*Progress indicators reflect the topics documented in this repository and will be updated as training continues.*
+| 01 | Java Foundations | ✅ |
+| 02 | Core Java Practice | 🔄 |
+| 03 | Database Fundamentals | ✅ |
+| 04 | Java Database Connectivity | ✅ |
+| 05 | Frontend Foundations | ✅ |
+| 06 | Responsive UI | ✅ |
+| 07 | Spring Boot Framework | 🔄 |
+| 08 | Practical Projects | 🔄 |
 
 ---
 
@@ -53,13 +49,13 @@ This repository documents my day-by-day learning journey, practical exercises, a
 <details open>
 <summary><strong>🟢 Java & Programming Foundations</strong></summary>
 
-| Day | Learning topics |
+| Day | Learning Topics |
 |:--:|:--|
 | Day 01 | Java Introduction, JDK, JRE and JVM |
 | Day 02 | Java Installation, Variables, Data Types, Operators, Git & GitHub |
 | Day 03 | Sum of Digits, Factorial and Count Digits |
 | Day 04 | Methods, Arrays, Stack and Queue |
-| Day 05–10 | Java practice and programming concepts |
+| Day 05–10 | Java Practice and Programming Concepts |
 | Day 11 | MySQL and SQL Fundamentals |
 | Day 12 | Advanced SQL and Database Operations |
 
@@ -68,7 +64,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 <details open>
 <summary><strong>🔵 Database & Web Development</strong></summary>
 
-| Day | Learning topics |
+| Day | Learning Topics |
 |:--:|:--|
 | Day 13 | JDBC with NetBeans and MySQL Connector/J |
 | Day 14 | Frontend Basics — HTML, CSS and JavaScript |
@@ -83,13 +79,13 @@ This repository documents my day-by-day learning journey, practical exercises, a
 <details open>
 <summary><strong>🟣 Advanced JavaScript & Spring Boot</strong></summary>
 
-| Day | Learning topics |
+| Day | Learning Topics |
 |:--:|:--|
 | Day 20 | JavaScript DOM Manipulation & Event Handling |
 | Day 21 | JavaScript Revision, Project Wireframing and Documentation |
 | Day 22 | Introduction to Spring Boot, Setup and Architecture |
-| Day 23 | Spring Boot REST APIs, Entities, Repositories, and Postman Testing |
-| Day 24 | User Registration, Authentication Modules, and DTO implementation |
+| Day 23 | Spring Boot REST APIs, Entities, Repositories and Postman Testing |
+| Day 24 | User Registration, Authentication Modules and DTO Implementation |
 
 </details>
 
@@ -101,7 +97,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,spring,hibernate,postman,git,github,netbeans,vscode,idea&perline=6" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,spring,hibernate,postman,git,github,netbeans,vscode,idea&perline=6" alt="Technologies and Tools" />
 
 </div>
 
@@ -133,123 +129,67 @@ UPS-Fullstack-Training/
 ├── Day24-UserRegistration/
 │
 └── README.md
-
 ```
-
-
 
 *The repository structure will continue to grow as new training days and projects are added.*
 
-
-
 ---
-
-
 
 ## 🎯 Training Goals
 
-
-
 - Strengthen programming fundamentals through daily practice.
-
 - Understand how Java applications interact with databases.
-
 - Build responsive web pages using HTML, CSS and JavaScript.
-
 - Improve logical thinking and problem-solving skills.
-
 - Create practical projects using the concepts learned.
-
 - Maintain consistent progress using Git and GitHub.
 
-
-
 ---
-
-
 
 ## 📈 GitHub Activity
 
-
-
 <div align="center">
 
-
-
 <a href="https://github.com/baskarsaraswathy">
-
-  <img src="https://img.shields.io/badge/GitHub-baskarsaraswathy-181717?style=for-the-badge&logo=github&logoCol… alt="GitHub Profile" />
-
+<img src="https://img.shields.io/badge/GitHub-baskarsaraswathy-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
 </a>
-
-
 
 <a href="https://github.com/baskarsaraswathy?tab=repositories">
-
-  <img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github" alt="Repositories" />
-
+<img src="https://img.shields.io/badge/Repositories-Explore-00D9FF?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
-
-
 
 <a href="https://github.com/baskarsaraswathy?tab=stars">
-
-  <img src="https://img.shields.io/badge/Stars-Explore-7C3AED?style=for-the-badge&logo=github" alt="Stars" />
-
+<img src="https://img.shields.io/badge/Stars-Explore-7C3AED?style=for-the-badge&logo=github" alt="Stars" />
 </a>
-
-
 
 ### 💻 Code. Learn. Repeat.
 
-
-
 </div>
-
-
 
 *Explore my GitHub profile to see my repositories, projects, and coding journey.*
 
-
-
 ---
-
-
 
 ## 💻 My Learning Philosophy
 
-
-
 ```text
-
 Consistency over perfection.
 
 Practice over memorisation.
 
 Progress over excuses.
-
 ```
-
-
 
 Every day is an opportunity to learn, experiment, and become a better developer.
 
-
+---
 
 <div align="center">
 
-
-
 ### ⭐ Thanks for visiting!
-
-
 
 **Learn daily. Build consistently. Keep improving.**
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=110&se… width="100%" alt="Footer banner" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
