@@ -9,6 +9,8 @@ This is a Spring Boot REST API demonstrating a structured layered architecture (
 - MySQL Connector
 - Maven
 
+
+
 ## Database Setup
 1. Open MySQL Workbench and create a new database:
    ```sql
