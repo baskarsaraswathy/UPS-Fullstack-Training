@@ -76,19 +76,6 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 </details>
 
-<details open>
-<summary><strong>🟣 Advanced JavaScript & Spring Boot</strong></summary>
-
-| Day | Learning topics |
-|:--:|:--|
-| Day 20 | JavaScript DOM Manipulation & Event Handling |
-| Day 21 | JavaScript Revision, Project Wireframing and Documentation |
-| Day 22 | Introduction to Spring Boot, Setup and Architecture |
-| Day 23 | Spring Boot REST APIs, Entities, Repositories, and Postman Testing |
-| Day 24 | User Registration, Authentication Modules, and DTO implementation |
-
-</details>
-
 > 📂 Open each `DayXX` folder to explore that day's notes, source code, and practice work.
 
 ---
@@ -121,12 +108,21 @@ UPS-Fullstack-Training/
 │
 ├── Day1/
 ├── Day2/
+├── Day3/
+├── Day4/
 ├── ...
+├── Day13/
+├── Day14/
+├── ...
+├── Day18/
+│
 ├── Day19-JavaScript/
-├── Day21-JS-Revision/
-├── Day22-SpringBoot-Intro/
-├── Day23-TeachersManagement/
-├── Day24-UserRegistration/
+│   ├── README.md
+│   ├── index.html
+│   ├── variables.js
+│   ├── datatypes.js
+│   ├── operators.js
+│   └── programs.js
 │
 └── README.md
 ```
