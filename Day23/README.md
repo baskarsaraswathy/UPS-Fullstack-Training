@@ -8,6 +8,7 @@ This is a RESTful API built with Spring Boot to manage teacher records.
 * **Database:** H2 (In-Memory Database)
 * **Build Tool:** Maven
 
+
 ## API Endpoints
 
 ### Base URL: `http://localhost:8080/teachers`
