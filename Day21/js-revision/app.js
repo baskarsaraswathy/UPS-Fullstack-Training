@@ -16,10 +16,10 @@ const [feature1, feature2] = projectFeatures;
 const reviewProblemStatement = async () => {
     try {
         console.log("Reviewing problem statement...");
-        
+
         // Simulating a delay in the discussion
         await new Promise(resolve => setTimeout(resolve, 1000));
-        
+
         console.log("Proposed solution and enhanced features approved!");
         console.log(confirmTechStack("HTML/CSS/JS", "Spring Boot", "MySQL"));
     } catch (error) {
