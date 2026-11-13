@@ -87,6 +87,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 23 | Spring Boot REST APIs, Entities, Repositories and Postman Testing |
 | Day 24 | User Registration, Authentication Modules and DTO Implementation |
 | Day 25 | Spring Boot DTO Mapping with MapStruct and MySQL Integration |
+| Day 26 | Full-Stack Integration (Spring Boot + MySQL + HTML/JS), Duplicate Record Handling & Introduction to React |
 
 </details>
 
@@ -128,9 +129,10 @@ UPS-Fullstack-Training/
 ├── Day22-SpringBoot-Intro/
 ├── Day23-TeachersManagement/
 ├── Day24-UserRegistration/
+├── Day25-SpringMapStruct/
+├── Day26-FullStackPortal/
 │
 └── README.md
-```
 
 *The repository structure will continue to grow as new training days and projects are added.*
 
