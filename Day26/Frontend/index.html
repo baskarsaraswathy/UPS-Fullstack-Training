@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Registration Portal</title>
+</head>
+<body onload="loadStudents()">
+
+    <h1>student registration portal</h1>
+
+    <!-- Inline Registration Form -->
+    <div style="margin-bottom: 20px;">
+        <input type="text" id="regNo" placeholder="enter your register no">
+        <input type="email" id="email" placeholder="enter ur email">
+        <input type="password" id="password" placeholder="enter ur password">
+        <button onclick="registerStudent()">Submit</button>
+    </div>
+
+    <p id="msg"></p>
+
+    <h2>students registered:</h2>
+
+    <!-- Normal Table without highlights -->
+    <table border="1" cellpadding="5" cellspacing="0" style="width: 100%; max-width: 600px;">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Register No</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody id="studentTableBody">
+            <!-- Dynamic rows will load here from database -->
+        </tbody>
+    </table>
+
+    <script>
+        const API_URL = "http://localhost:8080/api/auth";
+
+        async function registerStudent() {
+            let data = {
+                registerNumber: document.getElementById('regNo').value,
+                email: document.getElementById('email').value,
+                password: document.getElementById('password').value
+            };
+
+            try {
+                let res = await fetch(`${API_URL}/register`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+                let text = await res.text();
+                document.getElementById('msg').innerText = text;
+                
+                if(res.ok) {
+                    document.getElementById('regNo').value = '';
+                    document.getElementById('email').value = '';
+                    document.getElementById('password').value = '';
+                    loadStudents();
+                }
+            } catch (err) {
+                document.getElementById('msg').innerText = "Backend connection error!";
+            }
+        }
+
+        async function loadStudents() {
+            try {
+                let res = await fetch(`${API_URL}/all-users`);
+                if (res.ok) {
+                    let students = await res.json();
+                    let tbody = document.getElementById('studentTableBody');
+                    tbody.innerHTML = ""; 
+
+                    students.forEach(student => {
+                        let row = `<tr>
+                            <td>${student.id}</td>
+                            <td>${student.registerNumber}</td>
+                            <td>${student.email}</td>
+                        </tr>`;
+                        tbody.innerHTML += row;
+                    });
+                }
+            } catch (err) {
+                console.log("Error loading student records from backend.");
+            }
+        }
+    </script>
+</body>
+</html>
