@@ -133,7 +133,7 @@ UPS-Fullstack-Training/
 ├── Day26-FullStackPortal/
 │
 └── README.md
-
+```
 *The repository structure will continue to grow as new training days and projects are added.*
 
 ---
