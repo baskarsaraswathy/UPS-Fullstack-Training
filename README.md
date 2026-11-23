@@ -88,6 +88,13 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 24 | User Registration, Authentication Modules and DTO Implementation |
 | Day 25 | Spring Boot DTO Mapping with MapStruct and MySQL Integration |
 | Day 26 | Full-Stack Integration (Spring Boot + MySQL + HTML/JS), Duplicate Record Handling & Introduction to React |
+| Day 27 | React Components, Props, State Management (useState, useEffect) & Tailwind CSS Setup |
+| Day 28 | Capstone Architecture (Project Lendly) — Database Schema Design, Supabase Integration & Escrow Workflow |
+| Day 29 | Building Lendly Core Modules — Item Listings, Booking Lifecycle APIs & Renter/Lender Dashboards |
+| Day 30 | End-to-End Frontend-Backend Integration, Testing & Capstone Presentation Deck Preparation |
+| Day 31 | Project Presentation — Presented Project Lendly via online meeting with GEN and Vinsys teams |
+| Day 32 | Post-Presentation Review, Feedback Implementation, Code Refactoring & Project Documentation |
+
 
 </details>
 
@@ -131,6 +138,12 @@ UPS-Fullstack-Training/
 ├── Day24-UserRegistration/
 ├── Day25-SpringMapStruct/
 ├── Day26-FullStackPortal/
+├── Day27-React-Fundamentals/
+├── Day28-Lendly-Architecture/
+├── Day29-Lendly-CoreModules/
+├── Day30-Lendly-Integration-Prep/
+├── Day31-Project-Presentation-GEN-Vinsys/
+├── Day32-PostPresentation-Refinements/
 │
 └── README.md
 ```
