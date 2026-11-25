@@ -95,6 +95,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 31 | Project Presentation — Presented Project Lendly via online meeting with GEN and Vinsys teams |
 | Day 32 | Post-Presentation Review, Feedback Implementation, Code Refactoring & Project Documentation |
 | Day 33 | Spring Boot Global Exception Handling (@RestControllerAdvice), Pagination (Pageable & PageRequest) & JPQL |
+| Day 34 | Spring Security 6, Jakarta Bean Validation DTOs (@Valid) & Stateless JWT Authentication (JJWT 0.12.6) |
 
 </details>
 
