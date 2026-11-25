@@ -146,6 +146,7 @@ UPS-Fullstack-Training/
 ├── Day31-Project-Presentation-GEN-Vinsys/
 ├── Day32-PostPresentation-Refinements/
 ├── Day33-Pagination-JPQL-ExceptionHandling/
+├── Day34-SpringSecurity-JWT/
 │
 └── README.md
 
