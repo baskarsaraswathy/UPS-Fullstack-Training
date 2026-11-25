@@ -94,7 +94,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 30 | End-to-End Frontend-Backend Integration, Testing & Capstone Presentation Deck Preparation |
 | Day 31 | Project Presentation — Presented Project Lendly via online meeting with GEN and Vinsys teams |
 | Day 32 | Post-Presentation Review, Feedback Implementation, Code Refactoring & Project Documentation |
-
+| Day 33 | Spring Boot Global Exception Handling (@RestControllerAdvice), Pagination (Pageable & PageRequest) & JPQL |
 
 </details>
 
@@ -144,8 +144,10 @@ UPS-Fullstack-Training/
 ├── Day30-Lendly-Integration-Prep/
 ├── Day31-Project-Presentation-GEN-Vinsys/
 ├── Day32-PostPresentation-Refinements/
+├── Day33-Pagination-JPQL-ExceptionHandling/
 │
 └── README.md
+
 ```
 *The repository structure will continue to grow as new training days and projects are added.*
 
