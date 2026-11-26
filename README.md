@@ -96,6 +96,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 32 | Post-Presentation Review, Feedback Implementation, Code Refactoring & Project Documentation |
 | Day 33 | Spring Boot Global Exception Handling (@RestControllerAdvice), Pagination (Pageable & PageRequest) & JPQL |
 | Day 34 | Spring Security 6, Jakarta Bean Validation DTOs (@Valid) & Stateless JWT Authentication (JJWT 0.12.6) |
+| Day 35 | Order Management, Transactional Checkout (@Transactional), Order History APIs & React Frontend Setup (Axios + Interceptors) |
 
 </details>
 
@@ -147,6 +148,7 @@ UPS-Fullstack-Training/
 ├── Day32-PostPresentation-Refinements/
 ├── Day33-Pagination-JPQL-ExceptionHandling/
 ├── Day34-SpringSecurity-JWT/
+├── Day35-OrderManagement-React/
 │
 └── README.md
 
