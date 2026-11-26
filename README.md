@@ -29,6 +29,25 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 ---
 
+## 📊 Training Progress
+
+<div align="center">
+
+| Learning Milestone | Progress |
+|:--|:--:|
+| Learning Days Documented | 35+ |
+| Java & Programming Fundamentals | ✅ |
+| Database & JDBC | ✅ |
+| Frontend Development | ✅ |
+| Spring Boot & REST APIs | ✅ |
+| Authentication & JWT | ✅ |
+| React Development | 🔄 |
+| Capstone Project – Lendly | 🔄 |
+
+</div>
+
+---
+
 ## 🗺️ Learning Roadmap
 
 | Phase | Topics | Progress |
@@ -40,7 +59,8 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | 05 | Frontend Foundations | ✅ |
 | 06 | Responsive UI | ✅ |
 | 07 | Spring Boot Framework | 🔄 |
-| 08 | Practical Projects | 🔄 |
+| 08 | React Development | 🔄 |
+| 09 | Practical Projects | 🔄 |
 
 ---
 
@@ -104,24 +124,57 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 ---
 
+## 🚀 Featured Capstone Project – Lendly
+
+**Lendly – Neighborhood Item Rental Platform**
+
+Lendly is a neighborhood-based item rental platform designed to help people rent and lend useful items within their local community instead of purchasing them.
+
+### ✨ Key Features
+
+- Item Listing – Users can list items available for rent.
+- Task-Based Search – Find items based on specific needs.
+- Booking Management – Manage rental requests and booking lifecycles.
+- Renter & Lender Dashboards – Separate dashboards for users.
+- User Authentication – Secure registration and login.
+- Trust & Safety – QR/photo-based item handover and user trust mechanisms.
+- Escrow Workflow – Manage rental transactions and payment flow.
+
+### 🛠️ Project Technology Stack
+
+| Category | Technologies |
+|:--|:--|
+| Frontend | React, JavaScript, Tailwind CSS |
+| Backend | Java, Spring Boot |
+| Database | PostgreSQL (Supabase) |
+| Authentication | Supabase Auth, JWT |
+| API Testing | Postman |
+| Tools | Git, GitHub, VS Code, IntelliJ IDEA |
+
+**Project Status:** Under Development
+
+---
+
 ## ⚙️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,spring,hibernate,postman,git,github,netbeans,vscode,idea&perline=6" alt="Technologies and Tools" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css,js,react,tailwind,hibernate,postman,git,github,netbeans,vscode,idea&perline=6" alt="Technologies and Tools" />
 
 </div>
 
 | Area | Tools / Technologies |
 |:--|:--|
 | Programming | Java, JavaScript |
-| Frameworks | Spring Boot, Spring Data JPA, Hibernate |
-| Database | MySQL, SQL, H2 Database |
+| Frameworks | Spring Boot, Spring Data JPA, Hibernate, React |
+| Database | MySQL, PostgreSQL, SQL, H2 Database |
 | Connectivity | JDBC, MySQL Connector/J |
-| Frontend | HTML, CSS, JavaScript |
+| Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
+| Authentication | Spring Security, JWT, Supabase Auth |
+| API & Integration | REST APIs, Axios, Postman |
 | IDE & Editor | IntelliJ IDEA, Apache NetBeans, VS Code |
-| API Testing | Postman |
-| Version Control | Git, GitHub, Maven |
+| Version Control | Git, GitHub |
+| Build Tool | Maven |
 
 ---
 
@@ -132,6 +185,10 @@ UPS-Fullstack-Training/
 │
 ├── Day1/
 ├── Day2/
+├── Day3/
+├── ...
+├── Day20/
+├── Day21/
 ├── ...
 ├── Day32-PostPresentation-Refinements/
 ├── Day33-Pagination-JPQL-ExceptionHandling/
@@ -139,9 +196,23 @@ UPS-Fullstack-Training/
 ├── Day35-OrderManagement-React/
 │
 └── README.md
-
 ```
+
 *The repository structure will continue to grow as new training days and projects are added.*
+
+---
+
+## 🎯 Key Learning Outcomes
+
+- Strengthened programming fundamentals using Java.
+- Practised SQL queries and database operations.
+- Connected Java applications with databases using JDBC.
+- Developed responsive web pages using HTML, CSS and JavaScript.
+- Built REST APIs using Spring Boot.
+- Implemented user registration and authentication.
+- Learned Spring Security and JWT-based authentication.
+- Explored React components, hooks and frontend integration.
+- Worked on a full-stack capstone project.
 
 ---
 
@@ -172,7 +243,17 @@ UPS-Fullstack-Training/
 <img src="https://img.shields.io/badge/Stars-Explore-7C3AED?style=for-the-badge&logo=github" alt="Stars" />
 </a>
 
-### 💻 Code. Learn. Repeat.
+</div>
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=baskarsaraswathy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baskarsaraswathy&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskarsaraswathy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -195,6 +276,8 @@ Every day is an opportunity to learn, experiment, and become a better developer.
 ---
 
 <div align="center">
+
+### 💻 Code. Learn. Repeat.
 
 ### ⭐ Thanks for visiting!
 
