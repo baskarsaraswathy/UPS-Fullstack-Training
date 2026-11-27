@@ -35,13 +35,14 @@ This repository documents my day-by-day learning journey, practical exercises, a
 
 | Learning Milestone | Progress |
 |:--|:--:|
-| Learning Days Documented | 35+ |
+| Learning Days Documented | 36+ |
 | Java & Programming Fundamentals | ✅ |
 | Database & JDBC | ✅ |
 | Frontend Development | ✅ |
 | Spring Boot & REST APIs | ✅ |
 | Authentication & JWT | ✅ |
 | React Development | 🔄 |
+| Cloud Deployment & DevOps | 🔄 |
 | Capstone Project – Lendly | 🔄 |
 
 </div>
@@ -60,7 +61,8 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | 06 | Responsive UI | ✅ |
 | 07 | Spring Boot Framework | 🔄 |
 | 08 | React Development | 🔄 |
-| 09 | Practical Projects | 🔄 |
+| 09 | Cloud Deployment & DevOps | 🔄 |
+| 10 | Practical Projects | 🔄 |
 
 ---
 
@@ -117,6 +119,7 @@ This repository documents my day-by-day learning journey, practical exercises, a
 | Day 33 | Spring Boot Global Exception Handling (@RestControllerAdvice), Pagination (Pageable & PageRequest) & JPQL |
 | Day 34 | Spring Security 6, Jakarta Bean Validation DTOs (@Valid) & Stateless JWT Authentication (JJWT 0.12.6) |
 | Day 35 | Order Management, Transactional Checkout (@Transactional), Order History APIs & React Frontend Setup (Axios + Interceptors) |
+| Day 36 | Cloud Deployment & DevOps — Linux Administration, Docker Containerization, Docker Compose, Spring Profiles & Cloud Deployment |
 
 </details>
 
@@ -159,7 +162,7 @@ Lendly is a neighborhood-based item rental platform designed to help people rent
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css,js,react,tailwind,hibernate,postman,git,github,netbeans,vscode,idea&perline=6" alt="Technologies and Tools" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,html,css,js,react,tailwind,hibernate,postman,git,github,netbeans,vscode,idea,docker,linux&perline=6" alt="Technologies and Tools" />
 
 </div>
 
@@ -172,6 +175,7 @@ Lendly is a neighborhood-based item rental platform designed to help people rent
 | Frontend | HTML, CSS, JavaScript, React, Tailwind CSS |
 | Authentication | Spring Security, JWT, Supabase Auth |
 | API & Integration | REST APIs, Axios, Postman |
+| DevOps | Linux, Docker, Docker Compose |
 | IDE & Editor | IntelliJ IDEA, Apache NetBeans, VS Code |
 | Version Control | Git, GitHub |
 | Build Tool | Maven |
@@ -194,6 +198,7 @@ UPS-Fullstack-Training/
 ├── Day33-Pagination-JPQL-ExceptionHandling/
 ├── Day34-SpringSecurity-JWT/
 ├── Day35-OrderManagement-React/
+├── Day36-CloudDeployment-DevOps/
 │
 └── README.md
 ```
@@ -212,6 +217,8 @@ UPS-Fullstack-Training/
 - Implemented user registration and authentication.
 - Learned Spring Security and JWT-based authentication.
 - Explored React components, hooks and frontend integration.
+- Learned Linux administration and Docker containerization.
+- Explored Docker Compose and production deployment configurations.
 - Worked on a full-stack capstone project.
 
 ---
@@ -223,6 +230,7 @@ UPS-Fullstack-Training/
 - Build responsive web pages using HTML, CSS and JavaScript.
 - Improve logical thinking and problem-solving skills.
 - Create practical projects using the concepts learned.
+- Learn application containerization and cloud deployment.
 - Maintain consistent progress using Git and GitHub.
 
 ---
